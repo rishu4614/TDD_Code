@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.349
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegreeConverter", "DegreeConverter\DegreeConverter.csproj", "{47BB95AA-49E4-47AF-A7E8-57916AB38E06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{F4216724-0079-48A1-8C2B-5267AD53ADE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47BB95AA-49E4-47AF-A7E8-57916AB38E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47BB95AA-49E4-47AF-A7E8-57916AB38E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47BB95AA-49E4-47AF-A7E8-57916AB38E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47BB95AA-49E4-47AF-A7E8-57916AB38E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4216724-0079-48A1-8C2B-5267AD53ADE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4216724-0079-48A1-8C2B-5267AD53ADE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4216724-0079-48A1-8C2B-5267AD53ADE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4216724-0079-48A1-8C2B-5267AD53ADE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {744B0DD6-16E4-4CBE-8491-BDB3A622B260}
+	EndGlobalSection
+EndGlobal
