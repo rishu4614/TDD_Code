@@ -1,0 +1,7 @@
+C:\Users\Rishabh\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\TDD_Code\TDD_code\Stack_Implementation\Stack_Implementation\bin\Debug\Stack_Implementation.exe.config
+C:\Users\Rishabh\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\TDD_Code\TDD_code\Stack_Implementation\Stack_Implementation\bin\Debug\Stack_Implementation.exe
+C:\Users\Rishabh\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\TDD_Code\TDD_code\Stack_Implementation\Stack_Implementation\bin\Debug\Stack_Implementation.pdb
+C:\Users\Rishabh\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\TDD_Code\TDD_code\Stack_Implementation\Stack_Implementation\obj\Debug\Stack_Implementation.csprojAssemblyReference.cache
+C:\Users\Rishabh\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\TDD_Code\TDD_code\Stack_Implementation\Stack_Implementation\obj\Debug\Stack_Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\TDD_Code\TDD_code\Stack_Implementation\Stack_Implementation\obj\Debug\Stack_Implementation.exe
+C:\Users\Rishabh\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\TDD_Code\TDD_code\Stack_Implementation\Stack_Implementation\obj\Debug\Stack_Implementation.pdb
